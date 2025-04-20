@@ -23,7 +23,13 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-        <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
+![DSs exp 2 ipynb - Colab_page-0001](https://github.com/user-attachments/assets/c0b26bab-49a4-4850-9b9d-097153d9467d)
+![DSs exp 2 ipynb - Colab_page-0002](https://github.com/user-attachments/assets/57ad24e1-f39b-4d44-843f-74771dcfc50e)
+![DSs exp 2 ipynb - Colab_page-0003](https://github.com/user-attachments/assets/ea741521-6c15-4f45-8f96-0c5376c62742)
+![DSs exp 2 ipynb - Colab_page-0004](https://github.com/user-attachments/assets/fe502de8-afff-41b4-a650-fbd71be40e60)
+![DSs exp 2 ipynb - Colab_page-0005](https://github.com/user-attachments/assets/e976fb00-57d3-4fe0-b7ca-6be58d28e16f)
+![DSs exp 2 ipynb - Colab_page-0006](https://github.com/user-attachments/assets/6a039e9a-b099-4e85-b711-1f4277c48b9b)
+![DSs exp 2 ipynb - Colab_page-0007](https://github.com/user-attachments/assets/e0db4ff2-93bc-4792-81e4-b803c36ccf1e)
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+ Thus we have read and performed Exploratory Data Analysis on the given data set.
